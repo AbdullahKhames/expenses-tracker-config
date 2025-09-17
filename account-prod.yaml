@@ -1,8 +1,8 @@
 build:
-  version: "3.88"
+  version: "4"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs"
+  message: "Welcome to EazyBank accounts related production APIs test"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
